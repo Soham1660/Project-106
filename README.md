@@ -1,1 +1,1 @@
-# WH Jr. Pro-C106 by Rishita Pradhan
+# WH Jr. Pro-C106 by Soham Aggarwal
